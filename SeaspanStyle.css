@@ -6,11 +6,11 @@
     list-style: none;
     text-decoration: none;
     box-sizing: border-box;
+    min-width: none;
 }
 
 img {
     max-width: 100%;
-    min-width: none;
     height: auto;
     display: block;
 }
